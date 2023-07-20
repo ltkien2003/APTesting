@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-17T17:54:23 ICT" name="Default suite" finished-at="2023-04-17T17:56:36 ICT" duration-ms="132777">
+    <groups>
+    </groups>
+    <test started-at="2023-04-17T17:54:23 ICT" name="Default test" finished-at="2023-04-17T17:56:36 ICT" duration-ms="132777">
+      <class name="fpoly.ap">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:fpoly.ap@f78a47e]" started-at="2023-04-17T17:54:23 ICT" name="setUp" finished-at="2023-04-17T17:54:30 ICT" duration-ms="6335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testNotSelectedCampus()[pri:1, instance:fpoly.ap@f78a47e]" started-at="2023-04-17T17:54:30 ICT" name="testNotSelectedCampus" finished-at="2023-04-17T17:54:33 ICT" duration-ms="3402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNotSelectedCampus -->
+        <test-method signature="testNotVerifyGoogle()[pri:2, instance:fpoly.ap@f78a47e]" started-at="2023-04-17T17:54:33 ICT" name="testNotVerifyGoogle" finished-at="2023-04-17T17:54:51 ICT" duration-ms="17761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNotVerifyGoogle -->
+        <test-method signature="testEmptyEmailGoogle()[pri:3, instance:fpoly.ap@f78a47e]" started-at="2023-04-17T17:54:51 ICT" name="testEmptyEmailGoogle" finished-at="2023-04-17T17:55:51 ICT" duration-ms="59550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmptyEmailGoogle -->
+        <test-method signature="testInvalidEmailGoogle()[pri:4, instance:fpoly.ap@f78a47e]" started-at="2023-04-17T17:55:51 ICT" name="testInvalidEmailGoogle" finished-at="2023-04-17T17:55:55 ICT" duration-ms="4388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidEmailGoogle -->
+        <test-method signature="testEmptyPasswordGoogle()[pri:5, instance:fpoly.ap@f78a47e]" started-at="2023-04-17T17:55:55 ICT" name="testEmptyPasswordGoogle" finished-at="2023-04-17T17:56:04 ICT" duration-ms="8850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmptyPasswordGoogle -->
+        <test-method signature="testInvalidPasswordGoogle()[pri:6, instance:fpoly.ap@f78a47e]" started-at="2023-04-17T17:56:04 ICT" name="testInvalidPasswordGoogle" finished-at="2023-04-17T17:56:15 ICT" duration-ms="11338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidPasswordGoogle -->
+        <test-method signature="testVadlidAccountGoogle()[pri:7, instance:fpoly.ap@f78a47e]" started-at="2023-04-17T17:56:15 ICT" name="testVadlidAccountGoogle" finished-at="2023-04-17T17:56:29 ICT" duration-ms="14105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVadlidAccountGoogle -->
+        <test-method signature="testLogoutAccountGoogle()[pri:8, instance:fpoly.ap@f78a47e]" started-at="2023-04-17T17:56:29 ICT" name="testLogoutAccountGoogle" finished-at="2023-04-17T17:56:35 ICT" duration-ms="5522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogoutAccountGoogle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:fpoly.ap@f78a47e]" started-at="2023-04-17T17:56:35 ICT" name="tearDown" finished-at="2023-04-17T17:56:36 ICT" duration-ms="1408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- fpoly.ap -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
